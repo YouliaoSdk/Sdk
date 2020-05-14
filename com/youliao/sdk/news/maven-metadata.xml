@@ -3,7 +3,7 @@
   <groupId>com.youliao.sdk</groupId>
   <artifactId>news</artifactId>
   <versioning>
-    <release>1.0.3-beta03</release>
+    <release>1.0.3-beta04</release>
     <versions>
       <version>1.0.0</version>
       <version>1.0.1</version>
@@ -11,7 +11,8 @@
       <version>1.0.3-beta01</version>
       <version>1.0.3-beta02</version>
       <version>1.0.3-beta03</version>
+      <version>1.0.3-beta04</version>
     </versions>
-    <lastUpdated>20200514093942</lastUpdated>
+    <lastUpdated>20200514094251</lastUpdated>
   </versioning>
 </metadata>

@@ -3,10 +3,11 @@
   <groupId>com.youliao.sdk</groupId>
   <artifactId>glide3</artifactId>
   <versioning>
-    <release>1.0.3-beta03</release>
+    <release>1.0.3-beta04</release>
     <versions>
       <version>1.0.3-beta03</version>
+      <version>1.0.3-beta04</version>
     </versions>
-    <lastUpdated>20200514093916</lastUpdated>
+    <lastUpdated>20200514094228</lastUpdated>
   </versioning>
 </metadata>
